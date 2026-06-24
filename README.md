@@ -6,7 +6,7 @@ Learning Analytics Dashboard built using Google Looker Studio to analyse learner
 
 ## Dashboard Preview
 
-![Learning Analytics Dashboard Preview](images/Learning Analytics Dashboard.png)
+![Learning Analytics Dashboard Preview](images/Learning_Analytics_Dashboard.png)
 
 
 Link: https://datastudio.google.com/reporting/f13fbcd5-234f-438d-87c8-4d68cd0322bd
